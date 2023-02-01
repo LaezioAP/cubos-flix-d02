@@ -1,5 +1,6 @@
 # Cubos-Flix
 <h2>Desafio referente ao módulo 2 do curso de desenvolvimento de software da Cubos Academy</h2>
+Link do projeto: https://cubos-flix-md02.netlify.app/
 <hr>
 <ul>
   <li><strong>HTML</strong></li>
