@@ -1,4 +1,4 @@
-# Cubox-Flix
+# Cubos-Flix
 <h2>Desafio referente ao módulo 2 do curso de desenvolvimento de software da Cubos Academy</h2>
 <hr>
 <ul>
